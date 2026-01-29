@@ -1,0 +1,17 @@
+0 Will Smith
+1 Tom Hanks
+2 Tom Cruise
+3 Scarlett Johansson
+4 Sandra Bullock
+5 Robert Downey Jr
+6 Nicole Kidman
+7 Natalie Portman
+8 Megan Fox
+9 Leonardo DiCaprio
+10 Kate Winslet
+11 Johnny Depp
+12 Jennifer Lawrence
+13 Hugh Jackman
+14 Denzel Washington
+15 Brad Pitt
+16 Angelina Jolie
